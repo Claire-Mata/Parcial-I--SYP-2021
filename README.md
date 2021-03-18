@@ -1,5 +1,6 @@
 # Parcial-I--SYP-2021
 Parcial 1 de SYP
+ALEJANDRA CLAIRE AGUILAR MATA AM19089
 primero creo una carpeta
 abro la terminal en esa carpeta
 en terminal hago un git init para comenzar mi repositorio
