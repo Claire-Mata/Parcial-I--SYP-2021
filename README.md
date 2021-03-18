@@ -26,4 +26,7 @@ https://github.com/Claire-Mata/Parcial-I--SYP-2021.git
 
 
 
-para replicar mi repositorio de github a un local solo es con el enlace o tambien puedo hacer un fork
+para replicar mi repositorio de github a un local solo es con el enlace o tambien puedes descargarlo
+luego en terminal das un git clone el http
+y ya
+
