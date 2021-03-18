@@ -23,3 +23,7 @@ para fucionar las ramas en git hub:
 solo hice un pull request y me da la opcion de 
 fusionar las ramas
 https://github.com/Claire-Mata/Parcial-I--SYP-2021.git
+
+
+
+para replicar mi repositorio de github a un local solo es con el enlace o tambien puedo hacer un fork
