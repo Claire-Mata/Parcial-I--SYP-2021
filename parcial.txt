@@ -1,3 +1,6 @@
 pregunta:
 1-Explique con sus palabras, que entiende por sistema
  R//se considera un conjunto de elementos que actuan en armonia a fin de realizar un objetivo
+2-Mencione 3 ejemplos de sistemas abiertos y 3 ejermplos de sistemas cerrados
+ R//sistemas abiertos: una olla de agua hirviendo, una hoguera, las plantas
+   sistema cerrado: un globo inflado, una batetria de un auto, un televisor.
