@@ -13,3 +13,5 @@ pregunta:
 7-bajo el punto de vista de unidad productiva, que es una organizacion?
  R//es una entidad social orientada hacia la consecucion de metas con base en un sitema coordinado y estructurado vinsulado con el entorno.
 8-bajo el enfoque de sistemas, explique, cuales serian las dificultades del administrador moderno? R//ir actualizando su conocimiento, que sea mas facil para el cliente.
+9-porque es importante conocer el organigrama de una organizacion al memento de analisis de los cambios o mejoras que se pueden hacer de esta?
+ R//es bueno conocerlo ya que sabemos con quien o a quien podemos preguntarle las cosas y asi hacernos mas facil a la hora del analisis
