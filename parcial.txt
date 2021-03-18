@@ -9,3 +9,4 @@ pregunta:
 4-medio que utiliza una empresa para lograr sus objetivos. nos estamos refiriendo a:
   R//las organizaciones
 5-que comparativo nos permite saber rapidamente que ha llegado el momento de tomar decisiones correctivas? R// Los mecanismos de control
+6-explique por que la toma de decisiones estrategicas en una organizacion, seria mejor utilizando sistemas informaticos? R//porque puedo sacar las conclusiones de como va mi empresa ya sea en tiempo real por ejemplo, tambien porque es mucho mas sencilla y mas fiable
