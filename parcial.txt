@@ -15,3 +15,5 @@ pregunta:
 8-bajo el enfoque de sistemas, explique, cuales serian las dificultades del administrador moderno? R//ir actualizando su conocimiento, que sea mas facil para el cliente.
 9-porque es importante conocer el organigrama de una organizacion al memento de analisis de los cambios o mejoras que se pueden hacer de esta?
  R//es bueno conocerlo ya que sabemos con quien o a quien podemos preguntarle las cosas y asi hacernos mas facil a la hora del analisis
+10-es el paso inicial de un estudio organizacional:
+ R//vision de nuestro estudio, sus estrategias
