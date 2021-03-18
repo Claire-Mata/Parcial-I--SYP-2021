@@ -21,4 +21,4 @@ volvemos hacer las preguntas que faltan
 para fucionar las ramas en git hub:
 solo hice un pull request y me da la opcion de 
 fusionar las ramas
-git@github.com:Claire-Mata/Parcial-I--SYP-2021.git
+https://github.com/Claire-Mata/Parcial-I--SYP-2021.git
