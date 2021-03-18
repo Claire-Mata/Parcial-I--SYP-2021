@@ -4,3 +4,5 @@ pregunta:
 2-Mencione 3 ejemplos de sistemas abiertos y 3 ejermplos de sistemas cerrados
  R//sistemas abiertos: una olla de agua hirviendo, una hoguera, las plantas
    sistema cerrado: un globo inflado, una batetria de un auto, un televisor.
+3-que limitaciones significativas se tendrian si no aplicamos un enfoque de sistema?
+ R//una vision reduccionista del universo, centrada en objetos aislados, aislamiento disciplinario
